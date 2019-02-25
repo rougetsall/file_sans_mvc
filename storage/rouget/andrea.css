@@ -1,0 +1,113 @@
+body{
+	background-color: #c5bfbf;
+	margin: 0;
+}
+.header{
+	background-image: url("bg-img.png") ;
+	 background-size: 1500px 3500px;
+	width: 100%;
+	height: 900px;
+
+
+}
+.menu{
+	background-color: #313947;
+	width: 100%;
+	height: 60px;
+	display: flex;
+}
+.logo{
+	width: 30%;
+	height: 80%;
+	margin-left: 13%;
+	padding-top: 1%;
+}
+.logo img{
+	width: 20%;
+	height: 60%;
+
+}
+
+ul {
+	
+	display:flex;
+	flex-direction: row;
+	margin-left: 30%;
+}
+li {
+	display: flex;
+	align-self: center;
+	color: #fff;
+	margin-left: 19px;
+}
+.test{
+	margin-left: 30%;
+	margin-top: 15%;
+	color: #fff;
+	font-size: 25px;
+}
+.test h2:nth-child(2){
+	margin-left: 10%;
+	
+	
+}
+.Content{
+	margin-top: -23%;
+	width: 90%;
+	height: 4000px;
+}
+.Article1{
+	width: 95%;
+	height: 1000px;
+	margin-left: 10%;
+	background-color: #fff;
+
+}
+
+.Article1 img{
+margin-top: -16%;
+margin-left: -12%;
+width: 110%;
+height: 85%;
+
+
+}
+.act1{
+	margin-left: 7%;
+
+}
+.act1 span:nth-child(2){
+	margin: 0;
+	font-size: 10px;
+	color: #c5bfbf;
+}
+.act1 span:nth-child(1){
+font-weight:bold;
+}
+.act2{
+	margin-top: 1%;
+	margin-left: 7%;
+	color: #c5bfbf;
+}
+.suite{
+	margin-top: 2%;
+	margin-left: 7%;
+	color: #f90707;
+
+}
+.Footer{
+	width: 95%;
+	height: 600px;
+	background-color: #000;
+	margin-left: 10%;
+}
+.foot{
+	background-color: #f60606;
+    width: 100%;
+	height: 23%;
+}
+.foot div h1{
+	color: #fff;
+	margin-left: 10%;
+	
+}
